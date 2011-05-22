@@ -1,0 +1,17 @@
+D:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\bin\Release\Productivity Timer.exe.config
+D:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\bin\Release\Productivity Timer.exe.manifest
+D:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\bin\Release\Productivity Timer.application
+D:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\bin\Release\Productivity Timer.exe
+D:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\bin\Release\Productivity Timer.pdb
+D:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\obj\Release\ResolveAssemblyReference.cache
+D:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\obj\Release\Productivity.MainWindow.resources
+D:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\obj\Release\Productivity.Properties.Resources.resources
+D:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\obj\Release\Productivity.TimerWindow.resources
+D:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\obj\Release\Productivity.csproj.GenerateResource.Cache
+D:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\obj\Release\Productivity Timer.TrustInfo.xml
+D:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\obj\Release\Productivity Timer.exe.manifest
+D:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\obj\Release\Productivity Timer.application
+D:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\obj\Release\Productivity Timer.exe
+D:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\obj\Release\Productivity Timer.pdb
+D:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\obj\Release\Productivity.AboutWindow.resources
+D:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\obj\Release\Productivity.ApplicationList.resources

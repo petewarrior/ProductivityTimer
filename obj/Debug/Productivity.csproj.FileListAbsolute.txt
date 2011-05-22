@@ -1,0 +1,25 @@
+C:\Users\Arya\AppData\Local\Temporary Projects\Productivity\bin\Debug\Productivity.exe
+C:\Users\Arya\AppData\Local\Temporary Projects\Productivity\bin\Debug\Productivity.pdb
+C:\Users\Arya\AppData\Local\Temporary Projects\Productivity\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arya\AppData\Local\Temporary Projects\Productivity\obj\Debug\Productivity.Form1.resources
+C:\Users\Arya\AppData\Local\Temporary Projects\Productivity\obj\Debug\Productivity.Properties.Resources.resources
+C:\Users\Arya\AppData\Local\Temporary Projects\Productivity\obj\Debug\Productivity.csproj.GenerateResource.Cache
+C:\Users\Arya\AppData\Local\Temporary Projects\Productivity\obj\Debug\Productivity.exe
+C:\Users\Arya\AppData\Local\Temporary Projects\Productivity\obj\Debug\Productivity.pdb
+D:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\obj\Debug\Productivity.MainWindow.resources
+D:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\obj\Debug\Productivity.Properties.Resources.resources
+D:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\obj\Debug\Productivity.csproj.GenerateResource.Cache
+D:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\obj\Debug\Productivity.TimerWindow.resources
+D:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\bin\Debug\Productivity Timer.exe.config
+D:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\bin\Debug\Productivity Timer.exe.manifest
+D:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\bin\Debug\Productivity Timer.application
+D:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\bin\Debug\Productivity Timer.exe
+D:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\bin\Debug\Productivity Timer.pdb
+D:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\obj\Debug\Productivity Timer.TrustInfo.xml
+D:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\obj\Debug\Productivity Timer.exe.manifest
+D:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\obj\Debug\Productivity Timer.application
+D:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\obj\Debug\Productivity Timer.exe
+D:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\obj\Debug\Productivity Timer.pdb
+D:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\obj\Debug\Productivity.AboutWindow.resources
+D:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\obj\Debug\Productivity.ApplicationList.resources
