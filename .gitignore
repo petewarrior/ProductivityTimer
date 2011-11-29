@@ -1,0 +1,7 @@
+.hg/
+Backup/
+bin/
+obj/
+publish/
+setup.exe
+_UpgradeReport_Files/

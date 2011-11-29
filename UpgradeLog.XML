@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Productivity">
+</Property><Property Name="Solution File" Value="F:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\Productivity.sln">
+</Property><Property Name="User Options File" Value="F:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\Productivity.suo">
+</Property><Property Name="Date" Value="03 Juli 2011">
+</Property><Property Name="Time" Value="12:02">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Productivity.sln" Description="File successfully backed up as F:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\Backup\Productivity.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Productivity.suo" Description="File successfully backed up as F:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\Backup\Productivity.suo">
+</Event><Event ErrorLevel="0" Project="Productivity" Source="Productivity.csproj" Description="Project file successfully backed up as F:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\Backup\Productivity.csproj">
+</Event><Event ErrorLevel="0" Project="Productivity" Source="Productivity.csproj.user" Description="Project user file successfully backed up as F:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\Backup\Productivity.csproj.user">
+</Event><Event ErrorLevel="0" Project="Productivity" Source="AboutWindow.cs" Description="File successfully backed up as F:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\Backup\AboutWindow.cs">
+</Event><Event ErrorLevel="0" Project="Productivity" Source="AboutWindow.Designer.cs" Description="File successfully backed up as F:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\Backup\AboutWindow.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Productivity" Source="ApplicationList.cs" Description="File successfully backed up as F:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\Backup\ApplicationList.cs">
+</Event><Event ErrorLevel="0" Project="Productivity" Source="ApplicationList.Designer.cs" Description="File successfully backed up as F:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\Backup\ApplicationList.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Productivity" Source="WindowData.cs" Description="File successfully backed up as F:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\Backup\WindowData.cs">
+</Event><Event ErrorLevel="0" Project="Productivity" Source="MainWindow.cs" Description="File successfully backed up as F:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\Backup\MainWindow.cs">
+</Event><Event ErrorLevel="0" Project="Productivity" Source="MainWindow.Designer.cs" Description="File successfully backed up as F:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\Backup\MainWindow.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Productivity" Source="Program.cs" Description="File successfully backed up as F:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="Productivity" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Productivity" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as F:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Productivity" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as F:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Productivity" Source="TimerWindow.cs" Description="File successfully backed up as F:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\Backup\TimerWindow.cs">
+</Event><Event ErrorLevel="0" Project="Productivity" Source="TimerWindow.Designer.cs" Description="File successfully backed up as F:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\Backup\TimerWindow.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Productivity" Source="app.config" Description="File successfully backed up as F:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="Productivity" Source="Productivity_TemporaryKey.pfx" Description="File successfully backed up as F:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\Backup\Productivity_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="Productivity" Source="Properties\app.manifest" Description="File successfully backed up as F:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\Backup\Properties\app.manifest">
+</Event><Event ErrorLevel="0" Project="Productivity" Source="Properties\DataSources\TimerDetails.datasource" Description="File successfully backed up as F:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\Backup\Properties\DataSources\TimerDetails.datasource">
+</Event><Event ErrorLevel="0" Project="Productivity" Source="Properties\Settings.settings" Description="File successfully backed up as F:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Productivity" Source="Aluminium.ico" Description="File successfully backed up as F:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\Backup\Aluminium.ico">
+</Event><Event ErrorLevel="0" Project="Productivity" Source="AboutWindow.resx" Description="File successfully backed up as F:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\Backup\AboutWindow.resx">
+</Event><Event ErrorLevel="0" Project="Productivity" Source="ApplicationList.resx" Description="File successfully backed up as F:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\Backup\ApplicationList.resx">
+</Event><Event ErrorLevel="0" Project="Productivity" Source="MainWindow.resx" Description="File successfully backed up as F:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\Backup\MainWindow.resx">
+</Event><Event ErrorLevel="0" Project="Productivity" Source="Properties\Resources.resx" Description="File successfully backed up as F:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Productivity" Source="TimerWindow.resx" Description="File successfully backed up as F:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\Backup\TimerWindow.resx">
+</Event><Event ErrorLevel="0" Project="Productivity" Source="Productivity.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Productivity" Source="Productivity.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Productivity.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Productivity.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Productivity" Source="app.config" Description="File converted successfully. All &lt;supportedRuntime&gt; and &lt;requiredRuntime&gt; tags were removed to enable the project to build and run with Visual Studio 2005.">
+</Event><Event ErrorLevel="3" Project="Productivity" Source="app.config" Description="Converted">
+</Event></UpgradeLog>

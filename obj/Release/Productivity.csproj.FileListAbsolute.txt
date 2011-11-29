@@ -15,3 +15,6 @@ D:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\obj\Release\Prod
 D:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\obj\Release\Productivity Timer.pdb
 D:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\obj\Release\Productivity.AboutWindow.resources
 D:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\obj\Release\Productivity.ApplicationList.resources
+F:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\bin\Release\Productivity Timer.exe.config
+F:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\obj\Release\Productivity Timer.exe
+F:\Documents\!! PROJECTS\Productivity Counter [C#]\Productivity\obj\Release\Productivity Timer.pdb
