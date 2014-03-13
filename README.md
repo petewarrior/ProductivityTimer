@@ -3,12 +3,19 @@ ProductivityTimer
 # Overview
 
 Productivity Timer is a small application for tracking productivity. 
-It tracks the window you are currently using, and matches its title against a predefined list of "productive windows."
+It tracks the window you are currently using, and matches its title against a predefined keyword list of "productive windows."
 
-With this approach, you can include any application, Web site name, or file name as a productive window, as long as the application includes the keyword in its title.
+As long as the application includes the word in its title, you can use it as a keyword:
+* Web site name
+* File name (e.g. Important presentation.pptx)
+* A person's name
+* Email subject
+* GitHub repo name
+* etc.
 
 # Installation
 
-Compile the solution using Microsoft Visual C# 2010 or newer. Then open the Productivity Timer.exe file.
+Compile the solution using Microsoft Visual C# 2010 or newer. Then open the Productivity Timer.exe file. Microsoft .NET Framework 4.0 is required.
 
 # Website
+http://petewarrior.com/v1/2010/07/productivity-timer/
